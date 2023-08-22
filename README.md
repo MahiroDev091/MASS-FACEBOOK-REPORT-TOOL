@@ -1,5 +1,5 @@
 # MASS-FACEBOOK-REPORT-TOOL
-Automated FB reporting tool that can submit unlimited report at the same time.
+💫Automated FB reporting tool that can submit unlimited report at the same time.
 
 - Android support only
 - Only work on termux
