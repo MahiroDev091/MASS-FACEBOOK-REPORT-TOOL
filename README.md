@@ -4,6 +4,14 @@
 - Android support only
 - Only work on termux
 
+
+```python
+pkg update && upgrade
+```
+```python
+pkg install python3
+```
 ```python
 python3 fb-report.py
 ```
+
